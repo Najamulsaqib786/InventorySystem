@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/_Main/Enum/E_ItemType.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/_Main/Structure/S_ItemStructure.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/_Main/BluePrints/BP_ItemMaster.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/_Main/Resources/ItemMeshes/ItemPotion/PotionMaterial.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/_Main/Resources/ItemMeshes/ItemPotion/SM_Potion.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/_Main/Resources/ItemMeshes/ItemPotion/texture.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/_Main/Resources/ItemMeshes/ItemHatches/lambert1.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/_Main/Resources/ItemMeshes/ItemBook/Hig.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/_Main/Resources/ItemMeshes/ItemBook/AO_Libro.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/_Main/Resources/ItemMeshes/ItemBook/Book.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/_Main/BluePrints/BP_ItemBook.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/_Main/Resources/ItemMeshes/ItemHatches/Hatchet.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/_Main/Resources/ItemMeshes/ItemHatches/Hatchet_lambert1_AlbedoTransparency_tga.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/_Main/Resources/ItemMeshes/ItemHatches/Hatchet_lambert1_MetallicSmoothness_tga.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/_Main/Resources/ItemMeshes/ItemHatches/Hatchet_lambert1_Normal_tga.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/_Main/Resources/ItemMeshes/ItemBook/Libro_Hig_AlbedoTransparency.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/_Main/Resources/ItemMeshes/ItemBook/Libro_Hig_MetallicSmoothness.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/_Main/Resources/ItemMeshes/ItemBook/Libro_Hig_Normal.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/_Main/Resources/Icons/T_Book.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/_Main/Resources/Icons/T_Hatchet.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/_Main/Resources/Icons/T_Potion.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/_Main/BluePrints/BP_ItemHealthPotion.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/_Main/BluePrints/BP_ItemHatche.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/KD/U65O27Z9R0PGQ12XVYWBYJ.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/4K/SE6GCARKI5BXY54MGJBAWE.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1P/C1FZI9ONNHFNXWO4NV8DV3.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/InventorySystem/Inventory_System/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/QH/B8GSEJ3ULOJGXAZI9U7C1T.uasset"
+			]
+		}
+	]
+}
